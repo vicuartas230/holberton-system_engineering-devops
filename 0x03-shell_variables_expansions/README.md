@@ -1,0 +1,1 @@
+This file contains info about each shell, init files, variables and expansions task
