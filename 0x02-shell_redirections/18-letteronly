@@ -1,0 +1,3 @@
+#!/bin/bash
+grep ^[[:alpha:]] /cat/ssh/sshd_config#!/bin/bash
+grep ^[[:alpha:]] /cat/ssh/sshd_config
